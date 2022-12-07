@@ -1,0 +1,37 @@
+{
+  "Ship": {
+    "Filename": "Sprites/Ship",
+    "FrameCount": 5,
+    "FrameRate": 1,
+    "Origin": "Center",
+    "PlayType": "Loop"
+  },
+  "Bullets": {
+    "Filename": "Sprites/Bullets",
+    "FrameCount": 6,
+    "FrameRate": 1,
+    "Origin": "Center",
+    "PlayType": "Loop"
+  },
+  "Asteroids_Big": {
+    "Filename": "Sprites/Asteroids_Big",
+    "FrameCount": 8,
+    "FrameRate": 1,
+    "Origin": "Center",
+    "PlayType": "Loop"
+  },
+  "Asteroids_Medium": {
+    "Filename": "Sprites/Asteroids_Medium",
+    "FrameCount": 8,
+    "FrameRate": 1,
+    "Origin": "Center",
+    "PlayType": "Loop"
+  },
+  "Asteroids_Small": {
+    "Filename": "Sprites/Asteroids_Small",
+    "FrameCount": 8,
+    "FrameRate": 1,
+    "Origin": "Center",
+    "PlayType": "Loop"
+  }
+}

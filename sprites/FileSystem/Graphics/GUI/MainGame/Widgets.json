@@ -1,0 +1,29 @@
+{
+  "Font": "Arial",
+  "Children": [
+    {
+      "Type": "Label",
+      "Name": "Score",
+      "TextBounds": "50|50|150|150",
+      "TextAlignment": "Top"
+    },
+    {
+      "Type": "Label",
+      "Name": "Lives",
+      "TextBounds": "50|100|150|150",
+      "TextAlignment": "Top"
+    },
+    {
+      "Type": "Label",
+      "Name": "Health",
+      "TextBounds": "50|100|150|150",
+      "TextAlignment": "Top"
+    },
+    {
+      "Type": "Label",
+      "Name": "End",
+      "TextBounds": "100|300|750|750",
+      "TextAlignment": "Top"
+    }
+  ]
+}
